@@ -34,5 +34,5 @@ function gradeGenerator() {
 
        // Display grade on HTML page
        let grade = document.getElementById('grade');
-       grade.textContent = `he student garde is ${studentGrade}`;
+       grade.textContent = `The student garde is ${studentGrade}`;
    }
